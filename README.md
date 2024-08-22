@@ -15,6 +15,10 @@ I'm a developer with experience in **Node.js**, **TypeScript**, and modern web f
 - [Discord Bot with TypeScript](https://github.com/sercrac07/discord-bot): Tutorial on how to create a Discord bot with TypeScript.
 - [Express with TypeScript](https://github.com/sercrac07/express-typescript): Tutorial on how to create an Express server with TypeScript.
 
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sergio-casado-s%C3%A1nchez-419b43314)
+
 ## Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
