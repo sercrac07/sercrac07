@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm sercrac07
 
-### Full Stack Developer | Passionate about technology and clean code
+### Full Stack Developer
 
-I'm a developer with experience in **Node.js**, **TypeScript**, and modern web frameworks like **React**, **Next.js**, and **Astro**. I'm passionate about _solving complex problems_ and _building performant_, scalable applications that make a difference.
+I'm a developer with experience in **Node.js**, **TypeScript**, and modern web frameworks like **React**, **Next.js**, and **Astro**.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sercrac07&theme=darcula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sercrac07&theme=darcula&utcOffset=8)
