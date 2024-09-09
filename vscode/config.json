@@ -1,0 +1,90 @@
+{
+  // Theme
+  "workbench.colorTheme": "React Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontFamily": "'Cascadia Code', 'Consolas', 'Courier New', monospace",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.fontLigatures": true,
+  "workbench.layoutControl.enabled": false,
+
+  // Config
+  "workbench.sideBar.location": "right",
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.verticalScrollbarSize": 3,
+  "editor.copyWithSyntaxHighlighting": false,
+  "workbench.editor.enablePreview": false,
+  "window.newWindowDimensions": "inherit",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "bottom",
+  "editor.detectIndentation": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.tips.enabled": false,
+  "workbench.startupEditor": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.stickyScroll.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.confirmSync": false,
+  "window.restoreWindows": "none",
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.zoomLevel": 0,
+
+  // Formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useEditorConfig": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "prettier.arrowParens": "avoid",
+  "prettier.semi": false,
+  "prettier.printWidth": 200,
+  "prettier.trailingComma": "none",
+  "prettier.documentSelectors": ["**/*.astro"],
+
+  // Copilot
+  "supermaven.allowGitignore": true,
+  "supermaven.enable": {
+    "*": true
+  },
+
+  // Tailwind
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+
+  // Astro
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "astro.content-intellisense": true,
+
+  // Files
+  "files.associations": {
+    "*.astro": "astro"
+  }
+}
